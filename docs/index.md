@@ -1,6 +1,6 @@
 # CS2023: ACM/IEEE-CS/AAAI Computer Science Curricula
 
-The SIGCSE Committee on Computing Education in Liberal Arts Colleges has been working in collaboration with the ACM/IEEE-CS/AAAI CS2023 Task Force to develop an article for the [Curricluar Practices Volume](https://csed.acm.org/curricular-practices-volume/) addresing [CS Education in the liberal arts context](https://csed.acm.org/curricular-practices-volume-liberal-arts/).
+The SIGCSE Committee on Computing Education in Liberal Arts Colleges has been working in collaboration with the [ACM/IEEE-CS/AAAI CS2023 Task Force](https://csed.acm.org/) to develop an article for the [Curricluar Practices Volume](https://csed.acm.org/curricular-practices-volume/) addresing [CS Education in the liberal arts context](https://csed.acm.org/curricular-practices-volume-liberal-arts/).
 
 This page will collect the drafts, publications and other artifacts related to this aspect of the committee's work on CS2023.
 
