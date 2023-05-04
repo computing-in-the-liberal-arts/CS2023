@@ -24,5 +24,9 @@ This page will collect the drafts, publications and other artifacts related to t
 * 08/19/2022 - [Anonymous version for SIGCSE2023 submission](08-19-22-ProcessWorkbook.pdf)
   * Also used in the 2022-23 CCSC and SIGCSE 2023 Reflective Curriculum Review for Liberal Arts Computing Programs Tutorials
 
+## Feedback to the ACM/IEEE/AAAI Taskforce
+
+* [Committee Feedback on the Beta Version of CS2023](CS2023_Beta_Feedback.pdf)
+
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") Unless otherwise noted on an individual resource, all materials in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
