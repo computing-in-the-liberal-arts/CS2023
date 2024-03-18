@@ -27,6 +27,7 @@ This page will collect the drafts, publications and other artifacts related to t
 
 ## The Curricular Practices Workbook
 
+* 3/18/2024 - [Version 3 of the Workbook](https://docs.google.com/document/d/1QyBftY01oZxVw_KJCjSz0vmZ2orLyC6LkGGiqpi914I/edit?usp=drive_link) for SIGCSE-TS 24 Affiliated event and spring workshops
 * 10/13/2023 - [Anonymous version for 2023-24 CCSC-XX workshops](10-13-23-ProcessWorkbook.pdf)
 * 08/19/2022 - [Anonymous version for SIGCSE 2023 paper submission](08-19-22-ProcessWorkbook.pdf)
   * Also used in the 2022-23 CCSC-XX workshops and SIGCSE 2023 Reflective Curriculum Review for Liberal Arts Computing Programs Tutorials.
