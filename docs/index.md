@@ -6,7 +6,7 @@ This page will collect the drafts, publications and other artifacts related to t
 
 ## Related Publications
 
-* Computer Science Curriculum Guidelines: A New Liberal Arts Perspective. (SIGCSE 2023, A. Holland-Minkley, J. Barnard, V. Barr, G. Braught, J. Davis, D. Reed, K. Schmitt, A. Tartaro, J. Teresco). 
+* [Computer Science Curriculum Guidelines: A New Liberal Arts Perspective.](https://dl.acm.org/doi/10.1145/3545945.3569793)ß (SIGCSE 2023, A. Holland-Minkley, J. Barnard, V. Barr, G. Braught, J. Davis, D. Reed, K. Schmitt, A. Tartaro, J. Teresco). 
   * 2/14/2023 - [CC-BY-NC-SA Version](02-14-23-SIGCSE23-CC-BY-NC-SA.pdf)
 
 ## Related Events
