@@ -6,18 +6,31 @@ This page will collect the drafts, publications and other artifacts related to t
 
 ## Related Publications
 
-* Computer Science Curriculum Guidelines: A New Liberal Arts Perspective. (To appear in SIGCSE 2023, A. Holland-Minkley, J. Barnard, V. Barr, G. Braught, J. Davis, D. Reed, K. Schmitt, A. Tartaro, J. Teresco). 
+* Computer Science Curriculum Guidelines: A New Liberal Arts Perspective. (SIGCSE 2023, A. Holland-Minkley, J. Barnard, V. Barr, G. Braught, J. Davis, D. Reed, K. Schmitt, A. Tartaro, J. Teresco). 
   * 2/14/2023 - [CC-BY-NC-SA Version](02-14-23-SIGCSE23-CC-BY-NC-SA.pdf)
 
 ## Related Events
 
+* Using a Distinctive Curricular Design Process for Liberal Arts Computing Programs
+(J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
+  * CCSC-SE: Tutorial/Workshop - Submitted for presentation - November 8-9, 2024
+  * CCSC-EA: Tutorial - Submitted for presentation - October 18-19, 2024
+  * CCSC-RM: Tutorial/Panel/Workshop - Submitted for presentation - October 18-19, 2024
+
+* A Process for Distinctive Curricular Design for Liberal Arts Computing Programs. 
+(J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
+  * [CCSC-NE: Tutorial](https://dl.acm.org/doi/10.5555/3665609.3665631), April 12-13, 2024. Presenter: G. Braught.
+
+* [SIGCSE 2024 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/) (March 2024. A. Holland-Minkley, A. Tartaro, J. Barnard).
+
 * Developing Identity-Focused Program-Level Learning Outcomes for Liberal Arts Computing Programs (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
-  * CCSC-EA Tutorial - Accepted for presentation, October 20-21, 2023. Presenter: G. Braught.
-  * CCSC-MW Tutorial - Accepted for presentation, October 20-21, 2023. Presenter: K. Schmitt.
-  * CCSC-RM Tutorial - Accepted for presentation, October 20-21, 2023. Presenter: J. Davis.
-  * CCSC-SE Tutorial - Accepted for presentation, November 3-4, 2023. Presenter: J. Teresco.
+  * [CCSC-EA Tutorial](https://dl.acm.org/doi/10.5555/3636988.3636993), October 20-21, 2023. Presenter: G. Braught.
+  * [CCSC-MW Tutorial](https://dl.acm.org/doi/10.5555/3637036.3637048), October 20-21, 2023. Presenter: K. Schmitt.
+  * [CCSC-RM Tutorial](https://dl.acm.org/doi/10.5555/3636971.3636981), October 20-21, 2023. Presenter: J. Davis.
+  * [CCSC-SE Tutorial](https://dl.acm.org/doi/10.5555/3637068.3637084), November 3-4, 2023. Presenter: J. Teresco.
 
 * [SIGCSE 2023 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2023-Affiliated-Event/) (March 2023. A. Holland-Minkley, A. Tartaro, J. Barnard).
+
 * Reflective Curriculum Review for Liberal Arts Computing Programs (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
   * [CCSC-MW Tutorial](https://dl.acm.org/doi/10.5555/3580619.3580627) - October 7-8, 2022. Presenter: J. Barnard.
   * [CCSC-EA Tutorial](https://dl.acm.org/doi/abs/10.5555/3580523.3580543) - October 21-22, 2022. Presenters: G. Braught, A. Holland-Minkley, J. Teresco.
@@ -27,7 +40,7 @@ This page will collect the drafts, publications and other artifacts related to t
 
 ## The Curricular Practices Workbook
 
-* 3/18/2024 - [Version 3 of the Workbook](https://docs.google.com/document/d/1QyBftY01oZxVw_KJCjSz0vmZ2orLyC6LkGGiqpi914I/edit?usp=drive_link) for SIGCSE-TS 24 Affiliated event and spring workshops
+* 3/18/2024 - [Version 3 of the Workbook](https://docs.google.com/document/d/1QyBftY01oZxVw_KJCjSz0vmZ2orLyC6LkGGiqpi914I/edit?usp=sharing) for SIGCSE-TS 24 Affiliated event and spring workshops.
 * 10/13/2023 - [Anonymous version for 2023-24 CCSC-XX workshops](10-13-23-ProcessWorkbook.pdf)
 * 08/19/2022 - [Anonymous version for SIGCSE 2023 paper submission](08-19-22-ProcessWorkbook.pdf)
   * Also used in the 2022-23 CCSC-XX workshops and SIGCSE 2023 Reflective Curriculum Review for Liberal Arts Computing Programs Tutorials.
