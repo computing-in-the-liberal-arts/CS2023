@@ -4,6 +4,14 @@ The SIGCSE Committee on Computing Education in Liberal Arts Colleges has been wo
 
 This page will collect the drafts, publications and other artifacts related to this aspect of the committee's work on CS2023.
 
+## The Curricular Practices Workbook
+
+* 3/18/2024 - [Version 3 of the Workbook](https://docs.google.com/document/d/1QyBftY01oZxVw_KJCjSz0vmZ2orLyC6LkGGiqpi914I/edit?usp=sharing) for SIGCSE-TS 24 Affiliated event and CCSC workshops through fall 2024.
+  * 10/17/2024 - [Companion Lab Activity for Step 4 Worksheet](https://docs.google.com/document/d/1cLgwt6UoDMURmaXmO3b0SkIRHCKC9oef6TH-HJQdq8A/edit?usp=sharing)
+* 10/13/2023 - [Anonymous version for 2023-24 CCSC-XX workshops](10-13-23-ProcessWorkbook.pdf)
+* 08/19/2022 - [Anonymous version for SIGCSE 2023 paper submission](08-19-22-ProcessWorkbook.pdf)
+  * Also used in the 2022-23 CCSC-XX workshops and SIGCSE 2023 Reflective Curriculum Review for Liberal Arts Computing Programs Tutorials.
+
 ## Related Publications
 
 * [Computer Science Curriculum Guidelines: A New Liberal Arts Perspective.](https://dl.acm.org/doi/10.1145/3545945.3569793)ß (SIGCSE 2023, A. Holland-Minkley, J. Barnard, V. Barr, G. Braught, J. Davis, D. Reed, K. Schmitt, A. Tartaro, J. Teresco). 
@@ -13,7 +21,7 @@ This page will collect the drafts, publications and other artifacts related to t
 
 * Using a Distinctive Curricular Design Process for Liberal Arts Computing Programs
 (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
-  * CCSC-SE: Tutorial/Workshop - November 8-9, 2024. Presenter J. Davis.
+  * CCSC-SE: Tutorial/Workshop - November 8-9, 2024. Presenter A. Tartaro.
   * CCSC-EA: Tutorial - October 18-19, 2024. Presenters A. Holland-Minkley, G. Braught
   * CCSC-RM: Tutorial/Panel/Workshop - October 18-19, 2024. J. Teresco.
 
@@ -37,13 +45,6 @@ This page will collect the drafts, publications and other artifacts related to t
   * [CCSC-NW Tutorial](https://dl.acm.org/doi/10.5555/3575618.3575631) - November 4-5, 2022. Presenter: J. Davis.
   * [CCSC-SE Tutorial](https://dl.acm.org/doi/10.5555/3581625.3581638) - November 11-12, 2022. Presenter: A. Tartaro. (Conference Canceled)
   * [CCSC-NE Tutorial](https://dl.acm.org/doi/10.5555/3606402.3606406) - April 14-15, 2023. Presenters: G. Braught, A. Holland-Minkley, J. Teresco.
-
-## The Curricular Practices Workbook
-
-* 3/18/2024 - [Version 3 of the Workbook](https://docs.google.com/document/d/1QyBftY01oZxVw_KJCjSz0vmZ2orLyC6LkGGiqpi914I/edit?usp=sharing) for SIGCSE-TS 24 Affiliated event and spring workshops.
-* 10/13/2023 - [Anonymous version for 2023-24 CCSC-XX workshops](10-13-23-ProcessWorkbook.pdf)
-* 08/19/2022 - [Anonymous version for SIGCSE 2023 paper submission](08-19-22-ProcessWorkbook.pdf)
-  * Also used in the 2022-23 CCSC-XX workshops and SIGCSE 2023 Reflective Curriculum Review for Liberal Arts Computing Programs Tutorials.
 
 ## Feedback to the ACM/IEEE/AAAI Taskforce
 
