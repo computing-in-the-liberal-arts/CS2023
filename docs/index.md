@@ -7,7 +7,8 @@ This page will collect the drafts, publications and other artifacts related to t
 ## The Curricular Practices Workbook
 
 * 3/18/2024 - [Version 3 of the Workbook](https://docs.google.com/document/d/1QyBftY01oZxVw_KJCjSz0vmZ2orLyC6LkGGiqpi914I/edit?usp=sharing) for SIGCSE-TS 24 Affiliated event and CCSC workshops through fall 2024.
-  * 10/17/2024 - [Companion Lab Activity for Step 4 Worksheet](https://docs.google.com/document/d/1cLgwt6UoDMURmaXmO3b0SkIRHCKC9oef6TH-HJQdq8A/edit?usp=sharing)
+  * 10/17/2024 - [CS2023 Curriculum Design Worksheet](https://docs.google.com/spreadsheets/d/1HffY1wX2Uq5kqYMR4bWPK2mMLa5KZzibS-7zrKReX6M/edit?usp=sharing)
+  * 10/17/2024 - [Companion Lab Activity for CS2023 Worksheet](https://docs.google.com/document/d/1cLgwt6UoDMURmaXmO3b0SkIRHCKC9oef6TH-HJQdq8A/edit?usp=sharing)
 * 10/13/2023 - [Anonymous version for 2023-24 CCSC-XX workshops](10-13-23-ProcessWorkbook.pdf)
 * 08/19/2022 - [Anonymous version for SIGCSE 2023 paper submission](08-19-22-ProcessWorkbook.pdf)
   * Also used in the 2022-23 CCSC-XX workshops and SIGCSE 2023 Reflective Curriculum Review for Liberal Arts Computing Programs Tutorials.
