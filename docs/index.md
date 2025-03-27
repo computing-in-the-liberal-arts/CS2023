@@ -4,6 +4,8 @@ The SIGCSE Committee on Computing Education in Liberal Arts Colleges has been wo
 
 This page will collect the drafts, publications and other artifacts related to this aspect of the committee's work on CS2023.
 
+We have also developed professional development and facilitation support for departments interested in using this process. We can provide targeted support with specific steps of this process or can lead your department through the entire process through a summer on-site retreat at your institution or virtually across a longer span of time. Contact Amanda Holland-Minkley ([amh@washjeff.edu](mailto:amh@washjeff.edu)) for more information.
+
 ## The Curricular Practices Workbook
 
 * 3/18/2024 - [Version 3 of the Workbook](https://docs.google.com/document/d/1QyBftY01oZxVw_KJCjSz0vmZ2orLyC6LkGGiqpi914I/edit?usp=sharing) for SIGCSE-TS 24 Affiliated event and CCSC workshops through fall 2024.
